@@ -1,4 +1,4 @@
-<h1>About Me 🚀</h1>
+<h1 align="center">About Me 🚀</h1>
 
 <p>Hey there! 👋 I'm Sanket P. Bhandari, a Full-Stack Web Developer with a knack for design and a passion for creating exciting projects. Currently exploring React Native to dive into mobile app development. 📱</p>
 
