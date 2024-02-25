@@ -1,16 +1,19 @@
-### Hi there 👋
+User
+<h1 align="left">About Me 🚀</h1>
 
-<!--
-**SanketBhandarii/SanketBhandarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Hey there! 👋 I'm Sanket P. Bhandari, a Full-Stack Web Developer with a knack for design and a passion for creating exciting projects. Currently exploring React Native to dive into mobile app development. 📱</p>
 
-Here are some ideas to get you started:
+## Skills 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack web development 💻
+- Designing (UI/UX) 🎨
+- ReactJS ⚛️
+- Node.js 🚀
+- Express.js 🛤️
+- MongoDB 🍃
+- HTML/CSS/JavaScript 🌐
+- React Native (Currently learning) 📱
+
+<p align="left">Find more about me on <a href="https://www.linkedin.com/in/sanket-bhandari-80a37a25a/">LinkedIn</a> 🌐</p>
+
+<p align="left">Feel free to connect and explore my projects and experiences! 😊</p>
