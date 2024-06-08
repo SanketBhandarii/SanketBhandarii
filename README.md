@@ -2,7 +2,7 @@
 
 <p align="center">Hey there! 👋 I'm Sanket P. Bhandari, a Full-Stack Web Developer with a knack for design and a passion for creating exciting projects. Currently exploring React Native to dive into mobile app development. 📱</p>
 
-<p align="center"><img src="https://i.pinimg.com/originals/5b/06/c7/5b06c7e4b2721c7026fb5043fe4d84c2.gif" width="200"></p>
+<p align="center"><img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="200"></p>
 
 <h2 align="center">Skills 🛠️</h2>
 
