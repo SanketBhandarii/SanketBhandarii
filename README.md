@@ -9,7 +9,7 @@
   <img src="https://i.pinimg.com/originals/38/a0/cc/38a0cc030a73b8592057bd7d01bfd56d.gif" width="220" height="190" alt="Profile Image">
 </div>
 
----
+
 
 <h2 align="center">🛠️ Skills 🛠️</h2>
 
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/HTML/CSS/JavaScript-%F0%9F%8C%90-f0db4f" alt="HTML/CSS/JavaScript">
 </p>
 
----
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
 
