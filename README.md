@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Express.js-%F0%9F%9B%A4%EF%B8%8F-4b4b4b" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-%F0%9F%8D%83-4db33d" alt="MongoDB">
   <img src="https://img.shields.io/badge/HTML/CSS/JavaScript-%F0%9F%8C%90-f0db4f" alt="HTML/CSS/JavaScript">
+<img src="https://img.shields.io/badge/React Native-%F0%9F%8C%90-61dafb" alt="HTML/CSS/JavaScript">
 </p>
 
 
@@ -32,4 +33,4 @@
   </a>
 </p>
 
-<p align="center">Feel free to connect and explore my projects and experiences! 😊</p>
+<p align="center">Feel free to connect and explore my projects and experiences!🗿 </p>
