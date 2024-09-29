@@ -5,8 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="280" height="190" alt="Profile Image">
-  <img src="https://i.pinimg.com/originals/38/a0/cc/38a0cc030a73b8592057bd7d01bfd56d.gif" width="220" height="190" alt="Profile Image">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" height="190" alt="Profile Image">
 </div>
 
 
