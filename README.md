@@ -1,4 +1,4 @@
-<h1 align="center">🚀 About Me 🚀</h1>
+<h1 align="center">💻 About Me 🚀</h1>
 
 <p align="center">
   Hey there! 👋 I'm a passionate Full-Stack Developer with a keen eye for design and a drive for building innovative and user-friendly applications. With a solid foundation in both front-end and back-end technologies, I love transforming ideas into reality through code.
